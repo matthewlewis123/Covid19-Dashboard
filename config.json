@@ -1,0 +1,7 @@
+{
+    "API_Key" : "<INSERT API KEY HERE>",
+    "location" : "Exeter",    
+    "location_type" : "ltla",
+    "nation" : "England"
+
+}
